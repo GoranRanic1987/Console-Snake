@@ -2,6 +2,7 @@
 /// | Copyright (c) 2013 KVD |
 /// |  All Rights Reserved.  |
 /// |      Version 1.02      |
+/// |  Internal: Version 09  |
 /// +------------------------+
 
 #include <math.h>
