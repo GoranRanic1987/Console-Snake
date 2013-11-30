@@ -1,2 +1,13 @@
 Console-Snake
 =============
+
+## Instruction
+Speed: PgUp / PgDn
+
+Direction: Up / Dn / Lf / Rg
+
+## Compile Command
+
+mingw32-gcc.exe -O3 -c "Console-Snake.c" -o "Console-Snake.o"
+
+mingw32-gcc.exe -O3 -o "Console-Snake.exe" "Console-Snake.o" "libgdi32.a" "libpthreadGC2.a"
