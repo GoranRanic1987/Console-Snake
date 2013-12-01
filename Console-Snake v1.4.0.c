@@ -487,14 +487,13 @@ void Create_Cookie (HDC DeviceContext)
 
 void Clear_String (void)
 {
- memset (&Block   , 0, sizeof (Pos));
- memset (&Unfilled, 0, sizeof (Pos));
- memset (&Erase   , 0, sizeof (Pos_Info));
- memset (&Draw    , 0, sizeof (Pos_Info));
- memset (&Predict , 0, sizeof (Pos_Info));
- memset (&Cookie  , 0, sizeof (Pos_Info));
- memset (&Block   , 0, sizeof (Pos_Info));
- memset (&Move    , 0, sizeof (Move_Info));
+ memset(Block,    0, sizeof(Block));
+ memset(Unfilled, 0, sizeof(Unfilled));
+ memset(&Erase,   0, sizeof(Erase));
+ memset(&Draw,    0, sizeof(Draw));
+ memset(&Predict, 0, sizeof(Predict));
+ memset(&Cookie,  0, sizeof(Cookie));
+ memset(&Move,    0, sizeof(Move));
 }
 
 void Clear_Screen (HDC DeviceContext)
