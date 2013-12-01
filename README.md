@@ -2,13 +2,13 @@ Console-Snake
 =============
 
 ## Instruction
-Exit: <End>
+Exit: End
 
-Restart: <Home>
+Restart: Home
 
-Speed: <PgUp> / <PgDn>
+Speed: PgUp / PgDn
 
-Direction: <Up> / <Dn> / <Lf> / <Rg>
+Direction: Up / Dn / Lf / Rg
 
 ## Compile Command
 
