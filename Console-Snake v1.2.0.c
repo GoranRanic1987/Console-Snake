@@ -5,12 +5,6 @@
 /// |  Internal: Version 11  |
 /// +------------------------+
 
-/// +------------------------+
-/// | Copyright (c) 2013 KVD |
-/// |  All Rights Reserved.  |
-/// |     Version 11.00      |
-/// +------------------------+
-
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
