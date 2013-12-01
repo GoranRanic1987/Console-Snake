@@ -1,7 +1,7 @@
 /// +------------------------+
 /// | Copyright (c) 2013 KVD |
 /// |  All Rights Reserved.  |
-/// |     Version: 1.2.0      |
+/// |     Version: 1.2.0     |
 /// |  Internal: Version 11  |
 /// +------------------------+
 
