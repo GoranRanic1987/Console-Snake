@@ -8,6 +8,12 @@ Restart: Home
 
 Speed: PgUp / PgDn
 
+Refresh/Redraw: F5
+
+Speed: PgUp / PgDn
+
+Pause/Resume: Space
+
 Direction: Up / Dn / Lf / Rg
 
 ## Compile Command
